@@ -1,0 +1,9 @@
+{
+  "data_directory": "Y:\\data_ZentraCloud\\",
+  "email_recipient": "example@example.com",
+  "email_subject": "Weekly Sensor Data Summary",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_username": "ecotwinweeklydata@gmail.com",
+  "smtp_password": "Zentra#23"
+}
